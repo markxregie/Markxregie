@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/kenjikaizen" target="blank"><img src="https://img.shields.io/twitter/follow/kenjikaizen?logo=twitter&style=for-the-badge" alt="kenjikaizen" /></a> </p>
 
-- 🌱 I’m currently learning **JavaScript and CSS**
+- 🌱 I’m currently learning **Python**
 
 - 📫 How to reach me **marklegend029@gmail.com**
 
