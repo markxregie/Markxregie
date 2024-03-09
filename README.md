@@ -1,4 +1,4 @@
-<head><img align="center alt="banner" width="3000" height="250" src="https://miro.medium.com/v2/resize:fit:1100/format:webp/0*eIhVp0KXrXSSHORN.gif">
+<head><img align="center alt="banner" width="3000" height="280" src="https://miro.medium.com/v2/resize:fit:1100/format:webp/0*eIhVp0KXrXSSHORN.gif">
 </head>
 <h1 align="center">I'm Mark Regie A Magtangob</h1>
 <h3 align="center">An aspiring Software Developer</h3>
