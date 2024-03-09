@@ -1,9 +1,9 @@
 <head><img align="center alt="banner" width="2700" height="280" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/81bb4b165684019.640b6038d133e.gif"
 
 
-<h1 align="center">Hi 👋, I'm Mark Regie A Magtangob</h1>
-<h3 align="center">Future Software and Web Developer</h3>
-<img align="right" alt="Coding" width="400" src="[https://media.tenor.com/cX92mi1p-NYAAAAd/coding-anime.gif](https://i.gifer.com/ATEd.gif)">
+<h1 align="center"> I'm Mark Regie A Magtangob </h1>
+
+<img align="right" alt="Coding" width="400" src="https://tenor.com/view/coding-anime-gif-24565564">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=markxregie&label=Profile%20views&color=0e75b6&style=flat" alt="markxregie" /> </p>
 
