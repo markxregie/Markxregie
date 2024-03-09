@@ -1,4 +1,4 @@
-![image](https://github.com/Markxregie/Markxregie/assets/110184282/ffcd96e9-9f54-4bf1-b656-c3b67d600d9d)
+<head><img align="center alt="banner" width="3000" height="250" src="![image](https://github.com/Markxregie/Markxregie/assets/110184282/ffcd96e9-9f54-4bf1-b656-c3b67d600d9d)"
 
 
 <h1 align="center">Hi 👋, I'm Mark Regie A Magtangob</h1>
