@@ -1,8 +1,6 @@
 <head><img align="center alt="banner" width="3000" height="280" src="https://miro.medium.com/v2/resize:fit:1100/format:webp/0*eIhVp0KXrXSSHORN.gif">
 </head>
 <h1 align="center">I'm Mark Regie A Magtangob</h1>
-<h3 align="center">An aspiring Software Developer</h3>
-<h3 align="center">Future Software and Web Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/cX92mi1p-NYAAAAd/coding-anime.gif">
 
 - 🌱 I’m currently learning **Python**
