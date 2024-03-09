@@ -2,7 +2,7 @@
 </head>
 <h1 align="center">Hi 👋, I'm Mark Regie A Magtangob</h1>
 <h3 align="center">Future Software and Web Developer</h3>
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/cX92mi1p-NYAAAAd/coding-anime.gif">
+<img align="right" alt="Coding" width="400" src="[https://media.tenor.com/cX92mi1p-NYAAAAd/coding-anime.gif](https://i.gifer.com/ATEd.gif)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=markxregie&label=Profile%20views&color=0e75b6&style=flat" alt="markxregie" /> </p>
 
