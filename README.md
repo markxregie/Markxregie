@@ -1,13 +1,9 @@
-<head><img align="center alt="banner" width="2700" height="280" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/81bb4b165684019.640b6038d133e.gif"
-
-
-<h1 align="center"> I'm Mark Regie A Magtangob </h1>
-
-<img align="right" alt="Coding" width="400" src="https://tenor.com/view/coding-anime-gif-24565564">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=markxregie&label=Profile%20views&color=0e75b6&style=flat" alt="markxregie" /> </p>
-
-<p align="left"> <a href="https://twitter.com/kenjikaizen" target="blank"><img src="https://img.shields.io/twitter/follow/kenjikaizen?logo=twitter&style=for-the-badge" alt="kenjikaizen" /></a> </p>
+<head><img align="center alt="banner" width="3000" height="250" src="https://camo.githubusercontent.com/0850a9b90bf720b08cafe764aea52d8cf2cc7048d4f8080297e8988b76bb08b8/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f7375706572666f6c696f2f696d6167652f75706c6f61642f76313632303638393937392f36383734373437303733336132663266363932653730363936653639366436373265363336663664326636663732363936373639366536313663373332663633333632663333333332663633333232663633333633333333363333323330363536343635333833323636333036353330363336353634333736343335333733303634363236353333363133313636333332653637363936365f796a756832732e676966">
+</head>
+<h1 align="center">I'm Mark Regie A Magtangob</h1>
+<h3 align="center">An aspiring Software Developer</h3>
+<h3 align="center">Future Software and Web Developer</h3>
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/cX92mi1p-NYAAAAd/coding-anime.gif">
 
 - 🌱 I’m currently learning **Python**
 
