@@ -1,4 +1,4 @@
-<head><img align="center alt="banner" width="3000" height="250" src="![image](https://github.com/Markxregie/Markxregie/assets/110184282/ffcd96e9-9f54-4bf1-b656-c3b67d600d9d)"
+<head><img align="center alt="banner" width="3000" height="250" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/81bb4b165684019.640b6038d133e.gif"
 
 
 <h1 align="center">Hi 👋, I'm Mark Regie A Magtangob</h1>
