@@ -1,9 +1,9 @@
 <head><img align="center alt="banner" width="3000" height="280" src="https://miro.medium.com/v2/resize:fit:1100/format:webp/0*eIhVp0KXrXSSHORN.gif">
 </head>
-![](https://komarev.com/ghpvc/?Markxregie&color=blueviolet)
 <h1 align="center">I'm Mark Regie A Magtangob</h1>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/cX92mi1p-NYAAAAd/coding-anime.gif">
 <br>
+![](https://komarev.com/ghpvc/?Markxregie&color=blueviolet)
 - 🌱 I’m currently learning **Python**
 
 - 📫 How to reach me **marklegend029@gmail.com** 
