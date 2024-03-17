@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning **Python**
 
 - 📫 How to reach me **marklegend029@gmail.com** <br>
-![](https://komarev.com/ghpvc/?markxregie&color=blueviolet)
+![](https://komarev.com/ghpvc/?Markxregie&color=blueviolet)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/kenjikaizen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kenjikaizen" height="30" width="40" /></a>
