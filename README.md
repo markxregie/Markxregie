@@ -5,7 +5,7 @@
 <br>
 - 🌱 I’m currently learning **Python**
 
-- 📫 How to reach me **marklegend029@gmail.com**
+- 📫 How to reach me **marklegend029@gmail.com** <br>
 ![](https://komarev.com/ghpvc/?markxregie&color=blueviolet)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
