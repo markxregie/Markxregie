@@ -1,62 +1,60 @@
-<!-- Purple Animated Banner -->
+<!-- Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a0dad,100:9d4edd&height=200&section=header&text=Mark%20Regie%20A%20Magtangob&fontSize=35&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=5C3960&height=190&section=header&text=Mark%20Regie%20A%20Magtangob&fontSize=38&fontColor=ffffff&animation=fadeIn" />
 </p>
 
-<h2 align="center">💜 Frontend Developer | IT Student | Lifelong Learner</h2>
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Frontend%20%7C%20Next.js%20%7C%20React-5C3960?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Learning-Python-5C3960?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Email-marklegend029%40gmail.com-5C3960?style=for-the-badge" />
+</p>
 
 ---
 
-### 🌱 Currently Learning
-- 🐍 Python  
-- ⚛️ React & Next.js  
-
-### 📫 Contact Me
-- 📧 **marklegend029@gmail.com**
+### About
+- Currently learning: Python
+- Building with: React, Next.js, Node.js
+- Contact: marklegend029@gmail.com
 
 ---
 
-## 🌐 Connect With Me
-
+### Links
 <p align="center">
   <a href="https://twitter.com/kenjikaizen">
-    <img src="https://img.shields.io/badge/Twitter-6a0dad?style=for-the-badge&logo=twitter&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Twitter-5C3960?style=for-the-badge&logo=x&logoColor=white" />
   </a>
   <a href="https://fb.com/markregie.asibalmagtangob">
-    <img src="https://img.shields.io/badge/Facebook-9d4edd?style=for-the-badge&logo=facebook&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Facebook-5C3960?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
   <a href="https://instagram.com/markxregie">
-    <img src="https://img.shields.io/badge/Instagram-7b2cbf?style=for-the-badge&logo=instagram&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Instagram-5C3960?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
 
 ---
 
-## 🛠️ Tech Stack
-
+### Tech
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,python,git,github,vscode" />
 </p>
 
 ---
 
-## 📊 GitHub Stats (Purple Theme)
+### Stats (custom color using #5C3960)
+<p align="center">
+  <img height="170"
+       src="https://github-readme-stats.vercel.app/api?username=markxregie&show_icons=true&hide_border=true&title_color=5C3960&icon_color=5C3960&text_color=c9c9c9&bg_color=0d1117" />
+  <img height="170"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=markxregie&layout=compact&hide_border=true&title_color=5C3960&text_color=c9c9c9&bg_color=0d1117" />
+</p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=markxregie&show_icons=true&theme=midnight-purple&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=markxregie&layout=compact&theme=midnight-purple&hide_border=true" height="170"/>
+  <img
+    src="https://streak-stats.demolab.com?user=markxregie&hide_border=true&background=0D1117&ring=5C3960&fire=5C3960&currStreakLabel=5C3960&sideLabels=5C3960&dates=c9c9c9&sideNums=c9c9c9&currStreakNum=c9c9c9" />
 </p>
 
 ---
 
-## 🔥 GitHub Streak
-
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=markxregie&theme=midnight-purple&hide_border=true"/>
-</p>
-
----
-
-<p align="center">
-  💜 "Consistency beats intensity."
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=5C3960&height=120&section=footer" />
 </p>
