@@ -40,7 +40,7 @@
 
 ---
 
-### Stats (custom color using #5C3960)
+### Stats
 <p align="center">
   <img height="170"
        src="https://github-readme-stats.vercel.app/api?username=markxregie&show_icons=true&hide_border=true&title_color=5C3960&icon_color=5C3960&text_color=c9c9c9&bg_color=0d1117" />
