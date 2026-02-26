@@ -1,72 +1,63 @@
 <!-- Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=5C3960&height=190&section=header&text=Mark%20Regie%20A%20Magtangob&fontSize=38&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=5C3960&height=190&section=header&text=Mark%20Regie%20A%20Magtangob&fontSize=38&fontColor=ffffff" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-Frontend%20%7C%20Backend%20%7C%20Fullstack-5C3960?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Email-marklegend029%40gmail.com-5C3960?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Fullstack%20Developer-793A81?style=for-the-badge" />
 </p>
 
 ---
 
-### About
-- Currently learning: Python
-- Building with: React, Next.js, Node.js, ASP.NET
-- Contact: marklegend029@gmail.com
+## About
+- Learning: Python
+- Stack: React, Next.js, Node.js, ASP.NET
+- Email: marklegend029@gmail.com
 
 ---
 
-### Links
-<p align="center">
-  <a href="https://twitter.com/kenjikaizen">
-    <img src="https://img.shields.io/badge/Twitter-5C3960?style=for-the-badge&logo=x&logoColor=white" />
-  </a>
-  <a href="https://fb.com/markregie.asibalmagtangob">
-    <img src="https://img.shields.io/badge/Facebook-5C3960?style=for-the-badge&logo=facebook&logoColor=white" />
-  </a>
-  <a href="https://instagram.com/markxregie">
-    <img src="https://img.shields.io/badge/Instagram-5C3960?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-</p>
-
----
-
-## Tech
-
-### Frontend
+## Frontend
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs" />
 </p>
 
-### Backend
+## Backend
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,cs,dotnet" />
 </p>
 
-### Databases
+## Databases
 <p align="center">
   <img src="https://skillicons.dev/icons?i=sqlite,mysql" />
 </p>
 
-### DevOps / Tools
+## DevOps / Tools
 <p align="center">
   <img src="https://skillicons.dev/icons?i=docker,git,github,vscode" />
 </p>
 
 ---
 
-### Stats
+## GitHub Stats
+
 <p align="center">
-  <img height="170"
-       src="https://github-readme-stats.vercel.app/api?username=markxregie&show_icons=true&hide_border=true&title_color=5C3960&icon_color=5C3960&text_color=c9c9c9&bg_color=0d1117" />
-  <img height="170"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=markxregie&layout=compact&hide_border=true&title_color=5C3960&text_color=c9c9c9&bg_color=0d1117" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=markxregie&show_icons=true&hide_border=true&bg_color=0D1117&title_color=5C3960&icon_color=5C3960&text_color=C9C9C9&rank_icon=github" 
+    height="165"
+  />
 </p>
 
 <p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=markxregie&hide_border=true&background=0D1117&ring=5C3960&fire=5C3960&currStreakLabel=5C3960&sideLabels=5C3960&dates=c9c9c9&sideNums=c9c9c9&currStreakNum=c9c9c9" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=markxregie&layout=compact&hide_border=true&bg_color=0D1117&title_color=5C3960&text_color=C9C9C9" 
+    height="165"
+  />
+</p>
+
+<p align="center">
+  <img 
+    src="https://streak-stats.demolab.com?user=markxregie&hide_border=true&background=0D1117&ring=5C3960&fire=5C3960&currStreakLabel=5C3960&sideLabels=5C3960&dates=C9C9C9&sideNums=C9C9C9&currStreakNum=C9C9C9" 
+  />
 </p>
 
 ---
