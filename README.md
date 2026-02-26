@@ -62,19 +62,7 @@
 
 ## GitHub Stats
 
-<p align="center">
-  <img
-    height="170"
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=markxregie&show_icons=true&hide_border=true&bg_color=0D1117&title_color=793A81&icon_color=793A81&text_color=E6E6E6&cache_seconds=21600"
-  />
-</p>
 
-<p align="center">
-  <img
-    height="170"
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=markxregie&layout=compact&hide_border=true&bg_color=0D1117&title_color=793A81&text_color=E6E6E6&cache_seconds=21600"
-  />
-</p>
 
 <p align="center">
   <img
