@@ -4,8 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-Frontend%20%7C%20Next.js%20%7C%20React-5C3960?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Learning-Python-5C3960?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-Frontend%20%7C%20Backend%20%7C%20Fullstack-5C3960?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Email-marklegend029%40gmail.com-5C3960?style=for-the-badge" />
 </p>
 
@@ -13,7 +12,7 @@
 
 ### About
 - Currently learning: Python
-- Building with: React, Next.js, Node.js
+- Building with: React, Next.js, Node.js, ASP.NET
 - Contact: marklegend029@gmail.com
 
 ---
@@ -33,9 +32,26 @@
 
 ---
 
-### Tech
+## Tech
+
+### Frontend
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,python,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs" />
+</p>
+
+### Backend
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,cs,dotnet" />
+</p>
+
+### Databases
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=sqlite,mysql" />
+</p>
+
+### DevOps / Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,git,github,vscode" />
 </p>
 
 ---
