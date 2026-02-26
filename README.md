@@ -1,6 +1,6 @@
 <!-- Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=5C3960&height=190&section=header&text=Mark%20Regie%20A%20Magtangob&fontSize=38&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=793A81&height=190&section=header&text=Mark%20Regie%20A%20Magtangob&fontSize=38&fontColor=ffffff" />
 </p>
 
 <p align="center">
@@ -10,9 +10,9 @@
 ---
 
 ## About
-- Learning: Python
-- Stack: React, Next.js, Node.js, ASP.NET
-- Email: marklegend029@gmail.com
+- Learning: Python  
+- Stack: React, Next.js, Node.js, ASP.NET  
+- Email: marklegend029@gmail.com  
 
 ---
 
@@ -42,26 +42,26 @@
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=markxregie&show_icons=true&hide_border=true&bg_color=0D1117&title_color=5C3960&icon_color=5C3960&text_color=C9C9C9&rank_icon=github" 
-    height="165"
+    src="https://github-readme-stats.vercel.app/api?username=markxregie&show_icons=true&theme=default&hide_border=true&bg_color=0D1117&title_color=793A81&icon_color=793A81&text_color=CCCCCC" 
+    height="170"
   />
 </p>
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=markxregie&layout=compact&hide_border=true&bg_color=0D1117&title_color=5C3960&text_color=C9C9C9" 
-    height="165"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=markxregie&layout=compact&hide_border=true&bg_color=0D1117&title_color=793A81&text_color=CCCCCC" 
+    height="170"
   />
 </p>
 
 <p align="center">
   <img 
-    src="https://streak-stats.demolab.com?user=markxregie&hide_border=true&background=0D1117&ring=5C3960&fire=5C3960&currStreakLabel=5C3960&sideLabels=5C3960&dates=C9C9C9&sideNums=C9C9C9&currStreakNum=C9C9C9" 
+    src="https://streak-stats.demolab.com?user=markxregie&theme=default&hide_border=true&background=0D1117&ring=793A81&fire=793A81&currStreakLabel=793A81" 
   />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=5C3960&height=120&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=793A81&height=120&section=footer" />
 </p>
