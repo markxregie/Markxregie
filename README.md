@@ -5,6 +5,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Fullstack%20Developer-793A81?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Email-marklegend029%40gmail.com-793A81?style=for-the-badge" />
 </p>
 
 ---
@@ -16,24 +17,45 @@
 
 ---
 
-## Frontend
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs" />
-</p>
+## Tech Stack
 
-## Backend
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,cs,dotnet" />
-</p>
+<!-- Row of "squares" -->
+<table align="center">
+  <tr>
+    <td align="center" valign="top" width="260">
+      <strong>Frontend</strong><br><br>
+      <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs" />
+    </td>
+    <td align="center" valign="top" width="260">
+      <strong>Backend</strong><br><br>
+      <img src="https://skillicons.dev/icons?i=nodejs,cs,dotnet" />
+      <br><br>
+      <strong style="font-weight:600;">ASP.NET</strong>
+    </td>
+    <td align="center" valign="top" width="260">
+      <strong>Databases</strong><br><br>
+      <img src="https://skillicons.dev/icons?i=sqlite,mysql" />
+    </td>
+    <td align="center" valign="top" width="260">
+      <strong>DevOps / Tools</strong><br><br>
+      <img src="https://skillicons.dev/icons?i=docker,git,github,vscode" />
+    </td>
+  </tr>
+</table>
 
-## Databases
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=sqlite,mysql" />
-</p>
+---
 
-## DevOps / Tools
+## Links
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,git,github,vscode" />
+  <a href="https://twitter.com/kenjikaizen">
+    <img src="https://img.shields.io/badge/Twitter-793A81?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
+  <a href="https://fb.com/markregie.asibalmagtangob">
+    <img src="https://img.shields.io/badge/Facebook-793A81?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/markxregie">
+    <img src="https://img.shields.io/badge/Instagram-793A81?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
 </p>
 
 ---
@@ -41,22 +63,22 @@
 ## GitHub Stats
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=markxregie&show_icons=true&theme=default&hide_border=true&bg_color=0D1117&title_color=793A81&icon_color=793A81&text_color=CCCCCC" 
+  <img
     height="170"
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=markxregie&show_icons=true&hide_border=true&bg_color=0D1117&title_color=793A81&icon_color=793A81&text_color=E6E6E6&cache_seconds=21600"
   />
 </p>
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=markxregie&layout=compact&hide_border=true&bg_color=0D1117&title_color=793A81&text_color=CCCCCC" 
+  <img
     height="170"
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=markxregie&layout=compact&hide_border=true&bg_color=0D1117&title_color=793A81&text_color=E6E6E6&cache_seconds=21600"
   />
 </p>
 
 <p align="center">
-  <img 
-    src="https://streak-stats.demolab.com?user=markxregie&theme=default&hide_border=true&background=0D1117&ring=793A81&fire=793A81&currStreakLabel=793A81" 
+  <img
+    src="https://streak-stats.demolab.com?user=markxregie&hide_border=true&background=0D1117&ring=793A81&fire=793A81&stroke=2B2F36&currStreakNum=E6E6E6&sideNums=E6E6E6&currStreakLabel=793A81&sideLabels=793A81&dates=E6E6E6"
   />
 </p>
 
