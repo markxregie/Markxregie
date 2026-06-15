@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=13&pause=1200&color=B19CD9&center=true&vCenter=true&width=600&lines=Frontend+Dev+%2F%2F+React+%26+Next.js;Aspiring+Network;" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=13&pause=1200&color=B19CD9&center=true&vCenter=true&width=600&lines=Frontend+Dev+%2F%2F+React+%26+Next.js;Aspiring+Network+Engineer;Currently+learning+CCNA+%26+Python;Stack+builder+%7C+Pixel+enthusiast" />
 </p>
 
 <p align="center">
@@ -24,11 +24,21 @@
 
 ---
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=10&pause=99999&color=D4BFFF&center=true&vCenter=true&width=280&lines=BSIT+Student" alt="who am i" />
-  <img src="https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=10&pause=99999&color=D4BFFF&center=true&vCenter=true&width=280&lines=React.js+%26+Next.js" alt="current focus" />
-  <img src="https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=10&pause=99999&color=D4BFFF&center=true&vCenter=true&width=280&lines=IT+Internships" alt="open to" />
-</p>
+<h2 align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=11&pause=99999&color=B19CD9&center=true&vCenter=true&width=200&lines=%5B+ABOUT+ME+%5D" />
+</h2>
+
+<table align="center" width="800">
+  <tr>
+    <td align="left">
+      <code>&gt; ./fetch_profile.sh</code><br><br>
+      I am a 4th-year Information Technology student (Class of 2026) specializing in frontend architecture. My work centers on engineering robust, scalable web applications using <b>React.js</b> and <b>Next.js</b>. <br><br>
+      Currently, I serve as a Frontend Developer for a university research group, bridging clean UI/UX with efficient data logic. While my core expertise lies in modern web technologies, I am actively expanding my technical foundation into network infrastructure and Python.<br><br>
+      <code>&gt; grep "status" user_data.json</code><br><br>
+      <b>[ ACTIVE ]:</b> Currently seeking IT internships and entry-level technical roles to apply my frontend expertise in a professional environment.
+    </td>
+  </tr>
+</table>
 
 <br>
 
