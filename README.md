@@ -1,8 +1,3 @@
-<!-- ============================================================
-     MARK REGIE A. MAGTANGOB — GitHub Profile README
-     Retro pixel / dark metal aesthetic · Lavender accent palette
-     ============================================================ -->
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D1A,50:2D1B4E,100:B19CD9&height=220&section=header&text=MARK%20REGIE%20A.%20MAGTANGOB&fontSize=30&fontColor=E8DFFF&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20%7C%20Aspiring%20Network%20Engineer&descAlignY=58&descSize=15&descColor=B19CD9" />
 </p>
@@ -21,10 +16,6 @@
 
 ---
 
-<!-- ============================================================
-     PIXEL BAND — FULL WIDTH TOP
-     ============================================================ -->
-
 <p align="center">
   <img src="./band.svg" alt="pixel dark metal band on stage" width="100%" />
 </p>
@@ -33,23 +24,15 @@
 
 ---
 
-<!-- ============================================================
-     DEMOGRAPHICS — 3 COLUMNS BELOW BAND
-     ============================================================ -->
-
 <p align="center">
-  <img src="./card-whoami.svg" width="32%" alt="who am i" />
-  <img src="./card-focus.svg" width="32%" alt="current focus" />
-  <img src="./card-opento.svg" width="32%" alt="open to" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=10&pause=99999&color=D4BFFF&center=true&vCenter=true&width=280&lines=BSIT+Student" alt="who am i" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=10&pause=99999&color=D4BFFF&center=true&vCenter=true&width=280&lines=React.js+%26+Next.js" alt="current focus" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=10&pause=99999&color=D4BFFF&center=true&vCenter=true&width=280&lines=IT+Internships" alt="open to" />
 </p>
 
 <br>
 
 ---
-
-<!-- ============================================================
-     TECH STACK
-     ============================================================ -->
 
 <h2 align="center">
   <img src="https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=11&pause=99999&color=B19CD9&center=true&vCenter=true&width=300&lines=%5B+TECH+STACK+%5D" />
@@ -80,10 +63,6 @@
 
 ---
 
-<!-- ============================================================
-     GITHUB STATS
-     ============================================================ -->
-
 <h2 align="center">
   <img src="https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=11&pause=99999&color=B19CD9&center=true&vCenter=true&width=340&lines=%5B+GITHUB+STATS+%5D" />
 </h2>
@@ -105,10 +84,6 @@
 
 ---
 
-<!-- ============================================================
-     CONNECT
-     ============================================================ -->
-
 <h2 align="center">
   <img src="https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=11&pause=99999&color=B19CD9&center=true&vCenter=true&width=300&lines=%5B+CONNECT+%5D" />
 </h2>
@@ -129,10 +104,6 @@
 </p>
 
 <br>
-
-<!-- ============================================================
-     FOOTER
-     ============================================================ -->
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:B19CD9,50:4B2E6F,100:0D0D1A&height=120&section=footer" />
