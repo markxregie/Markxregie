@@ -22,23 +22,25 @@
 ---
 
 <!-- ============================================================
-     PIXEL BAND + DEMOGRAPHICS — SPLIT LAYOUT
+     PIXEL BAND — FULL WIDTH TOP
      ============================================================ -->
 
-<table align="center" width="100%" border="0" cellspacing="0" cellpadding="0">
-<tr>
-<td width="48%" valign="top" align="center">
-
-<img src="./band.svg" alt="pixel dark metal band animation" width="320" />
+<p align="center">
+  <img src="./band.svg" alt="pixel dark metal band on stage" width="100%" />
+</p>
 
 <br>
-<sub><sup>[ pixel stage · dark metal · smil animated svg ]</sup></sub>
 
-</td>
-<td width="4%"></td>
-<td width="48%" valign="top">
+---
 
-<!-- DEMOGRAPHICS / ABOUT PANEL -->
+<!-- ============================================================
+     DEMOGRAPHICS — 3 COLUMNS BELOW BAND
+     ============================================================ -->
+
+<table align="center" width="100%" border="0" cellspacing="0" cellpadding="8">
+<tr>
+
+<td width="33%" valign="top">
 
 ```
 ┌─────────────────────────────────┐
@@ -55,6 +57,10 @@
 └─────────────────────────────────┘
 ```
 
+</td>
+
+<td width="33%" valign="top">
+
 ```
 ┌─────────────────────────────────┐
 │  CURRENT FOCUS                  │
@@ -63,8 +69,16 @@
 │  > Python scripting & automation│
 │  > VLANs · Switching · CCNA     │
 │  > Network fundamentals (deep)  │
+│                                 │
+│                                 │
+│                                 │
+│                                 │
 └─────────────────────────────────┘
 ```
+
+</td>
+
+<td width="33%" valign="top">
 
 ```
 ┌─────────────────────────────────┐
@@ -73,10 +87,16 @@
 │  * Frontend collaborations      │
 │  * Open source contributions    │
 │  * Network / infra side projects│
+│                                 │
+│                                 │
+│                                 │
+│                                 │
+│                                 │
 └─────────────────────────────────┘
 ```
 
 </td>
+
 </tr>
 </table>
 
@@ -111,65 +131,6 @@
       <img src="https://skillicons.dev/icons?i=docker,git,github,vscode,linux&theme=dark" />
     </td>
   </tr>
-</table>
-
-<br>
-
----
-
-<!-- ============================================================
-     LEARNING ROADMAP
-     ============================================================ -->
-
-<h2 align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=11&pause=99999&color=B19CD9&center=true&vCenter=true&width=380&lines=%5B+LEARNING+ROADMAP+%5D" />
-</h2>
-
-<table align="center" width="600">
-  <thead>
-    <tr>
-      <th align="left">TOPIC</th>
-      <th align="center">STATUS</th>
-      <th align="center">BADGE</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>Networking Fundamentals</td>
-      <td align="center">DONE</td>
-      <td align="center"><img src="https://img.shields.io/badge/COMPLETE-4B2E6F?style=flat-square&logoColor=B19CD9" /></td>
-    </tr>
-    <tr>
-      <td>IPv4 Subnetting</td>
-      <td align="center">DONE</td>
-      <td align="center"><img src="https://img.shields.io/badge/COMPLETE-4B2E6F?style=flat-square&logoColor=B19CD9" /></td>
-    </tr>
-    <tr>
-      <td>Python for Scripting</td>
-      <td align="center">IN PROGRESS</td>
-      <td align="center"><img src="https://img.shields.io/badge/IN_PROGRESS-7B5EA7?style=flat-square&logoColor=E8DFFF" /></td>
-    </tr>
-    <tr>
-      <td>VLANs and Switching</td>
-      <td align="center">IN PROGRESS</td>
-      <td align="center"><img src="https://img.shields.io/badge/IN_PROGRESS-7B5EA7?style=flat-square&logoColor=E8DFFF" /></td>
-    </tr>
-    <tr>
-      <td>CCNA Certification</td>
-      <td align="center">IN PROGRESS</td>
-      <td align="center"><img src="https://img.shields.io/badge/IN_PROGRESS-7B5EA7?style=flat-square&logoColor=E8DFFF" /></td>
-    </tr>
-    <tr>
-      <td>Routing Protocols (OSPF / BGP)</td>
-      <td align="center">PLANNED</td>
-      <td align="center"><img src="https://img.shields.io/badge/PLANNED-1A0D2E?style=flat-square&logoColor=B19CD9" /></td>
-    </tr>
-    <tr>
-      <td>Network Security Fundamentals</td>
-      <td align="center">PLANNED</td>
-      <td align="center"><img src="https://img.shields.io/badge/PLANNED-1A0D2E?style=flat-square&logoColor=B19CD9" /></td>
-    </tr>
-  </tbody>
 </table>
 
 <br>
@@ -235,7 +196,5 @@
 </p>
 
 <p align="center">
-  <sub>
-    built pixel by pixel · markxregie · 2025
-  </sub>
+  <sub>built pixel by pixel · markxregie · 2025</sub>
 </p>
