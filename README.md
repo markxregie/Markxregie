@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=13&pause=1200&color=B19CD9&center=true&vCenter=true&width=600&lines=Frontend+Dev+%2F%2F+React+%26+Next.js;Aspiring+Network+Engineer;Currently+learning+CCNA+%26+Python;Stack+builder+%7C+Pixel+enthusiast" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=13&pause=1200&color=B19CD9&center=true&vCenter=true&width=600&lines=Frontend+Dev+%2F%2F+React+%26+Next.js;Aspiring+Network;" />
 </p>
 
 <p align="center">
