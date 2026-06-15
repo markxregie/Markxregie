@@ -92,14 +92,16 @@
   <a href="mailto:marklegend029@gmail.com">
     <img src="https://img.shields.io/badge/EMAIL-0D0D1A?style=for-the-badge&logo=gmail&logoColor=B19CD9" />
   </a>
+  <a href="https://linkedin.com/in/YOUR-USERNAME-HERE">
+    <img src="https://img.shields.io/badge/LINKEDIN-0D0D1A?style=for-the-badge&logo=linkedin&logoColor=B19CD9" />
+  </a>
+  <a href="https://markregiemagtangob.vercel.app/">
+    <img src="https://img.shields.io/badge/PORTFOLIO-0D0D1A?style=for-the-badge&logo=vercel&logoColor=B19CD9" />
+  </a>
 </p>
 
 <br>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:B19CD9,50:4B2E6F,100:0D0D1A&height=120&section=footer" />
-</p>
-
-<p align="center">
-  <sub>built pixel by pixel · markxregie · 2025</sub>
 </p>
