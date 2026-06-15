@@ -92,7 +92,7 @@
   <a href="mailto:marklegend029@gmail.com">
     <img src="https://img.shields.io/badge/EMAIL-0D0D1A?style=for-the-badge&logo=gmail&logoColor=B19CD9" />
   </a>
-  <a href="https://linkedin.com/in/YOUR-USERNAME-HERE">
+  <a href="https://www.linkedin.com/in/mark-regie-magtangob-a7b120202/">
     <img src="https://img.shields.io/badge/LINKEDIN-0D0D1A?style=for-the-badge&logo=linkedin&logoColor=B19CD9" />
   </a>
   <a href="https://markregiemagtangob.vercel.app/">
