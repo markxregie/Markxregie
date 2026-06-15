@@ -22,14 +22,6 @@
 
 <br>
 
----
-
-<h2 align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=11&pause=99999&color=B19CD9&center=true&vCenter=true&width=200&lines=%5B+ABOUT+ME+%5D" />
-</h2>
-
-
-<br>
 
 ---
 
