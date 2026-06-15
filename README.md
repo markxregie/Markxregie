@@ -1,10 +1,10 @@
 <!-- ============================== HEADER ============================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4B2E6F,100:B19CD9&height=200&section=header&text=Mark%20Regie%20A%20Magtangob&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Frontend%20Developer%20%E2%80%A2%20Aspiring%20Network%20Engineer&descAlignY=55&descSize=17&descColor=E6E6E6" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4B2E6F,100:B19CD9&height=200&section=header&text=Mark%20Regie%20A%20Magtangob&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Frontend%20Developer%20%7C%20Aspiring%20Network%20Engineer&descAlignY=55&descSize=17&descColor=E6E6E6" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=B19CD9&center=true&vCenter=true&width=650&lines=Building+clean+UIs+with+React+%26+Next.js;Learning+Python+for+automation+%F0%9F%90%8D;Setting+up+my+first+home+network+lab+%F0%9F%96%A7;Studying+toward+CCNA+%F0%9F%93%A1" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=B19CD9&center=true&vCenter=true&width=500&lines=Frontend+Developer;Aspiring+Network+Engineer" />
 </p>
 
 <p align="center">
@@ -15,21 +15,26 @@
 
 <br>
 
-<!-- ============================== ABOUT ============================== -->
-<h2 align="center">👋 About Me</h2>
+<!-- ============================== CATS BANNER ============================== -->
+<p align="center">
+  <img src="./cats-playing.png" alt="pixel art cats playing on grass" width="100%" />
+</p>
 
+<br>
+
+<!-- ============================== INFO ============================== -->
 <p align="center" width="100%">
-  🎓&nbsp; Frontend Developer focused on <b>React</b> &amp; <b>Next.js</b><br>
-  🐍&nbsp; Currently learning <b>Python</b> for scripting &amp; automation<br>
-  📡&nbsp; Aspiring <b>Network Engineer</b> — building my home lab from the ground up<br>
-  🧩&nbsp; Stack: React • Next.js • Node.js • ASP.NET<br>
-  📫&nbsp; Reach me at <b>marklegend029@gmail.com</b>
+  Frontend Developer focused on <b>React</b> and <b>Next.js</b><br>
+  Currently learning <b>Python</b> for scripting and automation<br>
+  Aspiring <b>Network Engineer</b>, starting from the fundamentals<br>
+  Stack: React, Next.js, Node.js, ASP.NET<br>
+  Reach me at <b>marklegend029@gmail.com</b>
 </p>
 
 <br>
 
 <!-- ============================== TECH STACK ============================== -->
-<h2 align="center">🛠️ Tech Stack</h2>
+<h2 align="center">Tech Stack</h2>
 
 <table align="center">
   <tr>
@@ -54,79 +59,55 @@
 
 <br>
 
-<!-- ============================== NETWORKING ============================== -->
-<h2 align="center">🌐 Networking Journey</h2>
+<!-- ============================== CURRENTLY LEARNING ============================== -->
+<h2 align="center">Currently Learning</h2>
 
 <p align="center">
-  I'm building a small home lab to learn networking from the ground up — here's the basic topology I'm working toward:
-</p>
-
-```mermaid
-flowchart LR
-    INET((🌍 Internet))
-    ISP[ISP Modem]
-    RT[Router<br/>pfSense / MikroTik]
-    SW[Managed Switch]
-    PC[💻 Lab PC<br/>GNS3 / Packet Tracer]
-    SRV[🖥️ Linux Server<br/>VM]
-    AP[📶 Wireless AP]
-
-    INET --- ISP --- RT --- SW
-    SW --- PC
-    SW --- SRV
-    SW --- AP
-
-    style INET fill:#4B2E6F,stroke:#B19CD9,color:#ffffff
-    style RT fill:#B19CD9,stroke:#4B2E6F,color:#1a1a1a
-    style SW fill:#C9B6E4,stroke:#4B2E6F,color:#1a1a1a
-    style PC fill:#0D1117,stroke:#B19CD9,color:#B19CD9
-    style SRV fill:#0D1117,stroke:#B19CD9,color:#B19CD9
-    style AP fill:#0D1117,stroke:#B19CD9,color:#B19CD9
-```
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Linux-B19CD9?style=for-the-badge&logo=linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cisco%20Packet%20Tracer-4B2E6F?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Wireshark-B19CD9?style=for-the-badge&logo=wireshark&logoColor=white" />
-  <img src="https://img.shields.io/badge/GNS3-4B2E6F?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Python-B19CD9?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Networking%20Fundamentals-4B2E6F?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Subnetting-B19CD9?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/CCNA-4B2E6F?style=for-the-badge" />
 </p>
 
 <table align="center">
   <tr>
-    <th>Skill</th>
+    <th>Topic</th>
     <th>Status</th>
   </tr>
   <tr>
     <td>Networking Fundamentals</td>
-    <td>✅ Completed</td>
+    <td>Completed</td>
   </tr>
   <tr>
     <td>IPv4 Subnetting</td>
-    <td>✅ Completed</td>
+    <td>Completed</td>
   </tr>
   <tr>
-    <td>VLANs &amp; Switching</td>
-    <td>🔄 In Progress</td>
+    <td>Python for Scripting</td>
+    <td>In Progress</td>
+  </tr>
+  <tr>
+    <td>VLANs and Switching</td>
+    <td>In Progress</td>
   </tr>
   <tr>
     <td>CCNA Certification</td>
-    <td>🔄 In Progress</td>
+    <td>In Progress</td>
   </tr>
   <tr>
     <td>Routing Protocols (OSPF / BGP)</td>
-    <td>⏳ Planned</td>
+    <td>Planned</td>
   </tr>
   <tr>
     <td>Network Security Fundamentals</td>
-    <td>⏳ Planned</td>
+    <td>Planned</td>
   </tr>
 </table>
 
 <br>
 
 <!-- ============================== GITHUB STATS ============================== -->
-<h2 align="center">📊 GitHub Stats</h2>
+<h2 align="center">GitHub Stats</h2>
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=markxregie&show_icons=true&theme=transparent&hide_border=true&title_color=B19CD9&icon_color=B19CD9&text_color=E6E6E6&bg_color=0D1117" />
@@ -144,7 +125,7 @@ flowchart LR
 <br>
 
 <!-- ============================== CONNECT ============================== -->
-<h2 align="center">🔗 Connect With Me</h2>
+<h2 align="center">Connect With Me</h2>
 
 <p align="center">
   <a href="https://twitter.com/kenjikaizen">
