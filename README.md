@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=13&pause=1200&color=B19CD9&center=true&vCenter=true&width=600&lines=Frontend+Dev+%2F%2F+React+%26+Next.js;Aspiring+Network+Engineer;" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=13&pause=1200&color=B19CD9&center=true&vCenter=true&width=600&lines=Frontend+Dev+%2F%2F+React+%26+Next.js;Aspiring+Network+Engineer;Currently+learning+CCNA+%26+Python;Stack+builder+%7C+Pixel+enthusiast" />
 </p>
 
 <p align="center">
@@ -37,68 +37,11 @@
      DEMOGRAPHICS — 3 COLUMNS BELOW BAND
      ============================================================ -->
 
-<table align="center" width="100%" border="0" cellspacing="0" cellpadding="8">
-<tr>
-
-<td width="33%" valign="top">
-
-```
-┌─────────────────────────────────┐
-│  WHO AM I                       │
-├─────────────────────────────────┤
-│  Name   · Mark Regie Magtangob  │
-│  Role   · Frontend Developer    │
-│  Track  · Network Engineering   │
-│  Stack  · React / Next.js /     │
-│           Node.js / ASP.NET     │
-│  Based  · Philippines           │
-│  Mail   · marklegend029         │
-│           @gmail.com            │
-└─────────────────────────────────┘
-```
-
-</td>
-
-<td width="33%" valign="top">
-
-```
-┌─────────────────────────────────┐
-│  CURRENT FOCUS                  │
-├─────────────────────────────────┤
-│  > Building with React & Next   │
-│  > Python scripting & automation│
-│  > VLANs · Switching · CCNA     │
-│  > Network fundamentals (deep)  │
-│                                 │
-│                                 │
-│                                 │
-│                                 │
-└─────────────────────────────────┘
-```
-
-</td>
-
-<td width="33%" valign="top">
-
-```
-┌─────────────────────────────────┐
-│  OPEN TO                        │
-├─────────────────────────────────┤
-│  * Frontend collaborations      │
-│  * Open source contributions    │
-│  * Network / infra side projects│
-│                                 │
-│                                 │
-│                                 │
-│                                 │
-│                                 │
-└─────────────────────────────────┘
-```
-
-</td>
-
-</tr>
-</table>
+<p align="center">
+  <img src="./card-whoami.svg" width="32%" alt="who am i" />
+  <img src="./card-focus.svg" width="32%" alt="current focus" />
+  <img src="./card-opento.svg" width="32%" alt="open to" />
+</p>
 
 <br>
 
